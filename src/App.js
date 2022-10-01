@@ -13,7 +13,7 @@ import store from "./store";
 
 function App() {
   return (
-    <div>
+    <div className="font-font">
      
       
        

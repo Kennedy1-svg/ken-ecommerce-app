@@ -34,18 +34,18 @@ const Product = () => {
               </div>
 
               <div>
-                <h1 class="my-3 font-bold text-sm uppercase  text-red-500 tracking-widest ">{item.category}</h1>
+                <h1 class="my-3 font-bold text-sm uppercase  text-[#f7cb15] tracking-widest ">{item.category}</h1>
                 <article class="font-kumb">
                     <h1 class="font-bold text-2xl lg:text-5xl"> {item.title}</h1>
-                    <p class="my-6 text-md text-black opacity-40 font-bold">
+                    <p class="my-6 text-md text-black opacity-40 font-font">
                        {item.description}
                       </p> 
 
                       <p className='font-bold text-3xl'>${item.price}</p>
                       <div className='flex justify-between items-center my-3'>
-                      <button  onClick={()=> addProduct(item)} className='border p-3 button-3 bg-blue-500 text-white font-semibold rounded-xl cursor-pointer hover:bg-black'>Add to Cart</button>
+                      <button  onClick={()=> addProduct(item)} className='border p-3 button-3 bg-[#76bed0] text-white font-semibold rounded-xl cursor-pointer hover:bg-black'>Add to Cart</button>
                       <Link to="/cart"> 
-                       <a className='border p-3 bg-blue-500 text-white font-semibold rounded-xl cursor-pointer hover:bg-black'>Go to Cart</a> 
+                       <a className='border p-3 border-[#76bed0] text-black font-semibold rounded-xl cursor-pointer hover:bg-[#76bed0]'>Go to Cart</a> 
                       </Link>
 
 
