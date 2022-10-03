@@ -54,7 +54,7 @@ For future projects, I intend exploring more HTTP methods in interaction with mo
 ## Author
 
 - Twitter - [@KennedyOhia](https://www.twitter.com/KennedyOhia)
--Ohia Chimdinma Kennedy
+- Ohia Chimdinma Kennedy
 
 
 ## Acknowledgments
