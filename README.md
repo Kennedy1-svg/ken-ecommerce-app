@@ -8,7 +8,7 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -56,7 +56,3 @@ For future projects, I intend exploring more HTTP methods in interaction with mo
 - Twitter - [@KennedyOhia](https://www.twitter.com/KennedyOhia)
 - Ohia Chimdinma Kennedy
 
-
-## Acknowledgments
-
-Many Thanks to Walure Capital for the training I got from them to make this project a reality and my instructor, Mr Nelson.
